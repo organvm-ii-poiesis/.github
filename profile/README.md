@@ -42,7 +42,7 @@ At the center of ORGAN-II sits **[metasystem-master](https://github.com/organvm-
 | [example-generative-music](https://github.com/organvm-ii-poiesis/example-generative-music) | Generative music example — algorithmic composition patterns |
 | [example-generative-visual](https://github.com/organvm-ii-poiesis/example-generative-visual) | Generative visual example — real-time rendering patterns |
 | [example-theatre-dialogue](https://github.com/organvm-ii-poiesis/example-theatre-dialogue) | Interactive theatre dialogue — server/client conversation system |
-| [artist-toolkits-templates](https://github.com/organvm-ii-poiesis/artist-toolkits-templates) | Archived duplicate (see artist-toolkit-and-templates) |
+| [artist-toolkit-and-templates](https://github.com/organvm-ii-poiesis/artist-toolkit-and-templates) | Archived duplicate (see artist-toolkit-and-templates) |
 
 ⭐ = Flagship repository
 
