@@ -8,7 +8,8 @@
 
 **Generative art, interactive systems, performance frameworks, experiential work**
 
-**15 repositories** · **~46,000 words of documentation** · Silver Sprint complete
+**21 repositories** · **~46,000 words of documentation**
+**4 PRODUCTION · 5 PROTOTYPE · 7 SKELETON · 5 DESIGN_ONLY**
 
 </div>
 
@@ -28,8 +29,8 @@ At the center of ORGAN-II sits **[metasystem-master](https://github.com/organvm-
 
 | Repository | Description |
 |------------|-------------|
-| **[metasystem-master](https://github.com/organvm-ii-poiesis/metasystem-master)** ⭐ | Omni-Dromenon Engine — canonical monorepo for real-time performance systems |
-| **[a-mavs-olevm](https://github.com/organvm-ii-poiesis/a-mavs-olevm)** ⭐ | Personal artistic portfolio site (etceter4.com) — living temple of art, sound, and words |
+| **[metasystem-master](https://github.com/organvm-ii-poiesis/metasystem-master)** ★ | Omni-Dromenon Engine — canonical monorepo for real-time performance systems |
+| **[a-mavs-olevm](https://github.com/organvm-ii-poiesis/a-mavs-olevm)** ★ | Personal artistic portfolio site (etceter4.com) — living temple of art, sound, and words |
 | [a-i-council--coliseum](https://github.com/organvm-ii-poiesis/a-i-council--coliseum) | Decentralized live-streaming platform where AI agents debate with viewer crypto participation |
 | [core-engine](https://github.com/organvm-ii-poiesis/core-engine) | Central generative art engine — rendering pipeline and state management |
 | [performance-sdk](https://github.com/organvm-ii-poiesis/performance-sdk) | SDK for real-time performance systems |
@@ -42,9 +43,8 @@ At the center of ORGAN-II sits **[metasystem-master](https://github.com/organvm-
 | [example-generative-music](https://github.com/organvm-ii-poiesis/example-generative-music) | Generative music example — algorithmic composition patterns |
 | [example-generative-visual](https://github.com/organvm-ii-poiesis/example-generative-visual) | Generative visual example — real-time rendering patterns |
 | [example-theatre-dialogue](https://github.com/organvm-ii-poiesis/example-theatre-dialogue) | Interactive theatre dialogue — server/client conversation system |
-| [artist-toolkit-and-templates](https://github.com/organvm-ii-poiesis/artist-toolkit-and-templates) | Archived duplicate (see artist-toolkit-and-templates) |
 
-⭐ = Flagship repository
+★ = Flagship repository
 
 ## How ORGAN-II Fits the System
 
@@ -63,6 +63,8 @@ ORGAN-I (Theoria) ──→ ORGAN-II (Poiesis) ──→ ORGAN-III (Ergon)
 
 ## Part of the Eight-Organ System
 
+The organvm system spans 81 repositories across 8 organizations, ~320K words of documentation, and 16 published essays.
+
 | Organ | Domain | Organization |
 |-------|--------|-------------|
 | I | Theory | [organvm-i-theoria](https://github.com/organvm-i-theoria) |
@@ -74,6 +76,8 @@ ORGAN-I (Theoria) ──→ ORGAN-II (Poiesis) ──→ ORGAN-III (Ergon)
 | VII | Marketing | [organvm-vii-kerygma](https://github.com/organvm-vii-kerygma) |
 | VIII | Meta | [meta-organvm](https://github.com/meta-organvm) |
 
+> **Read the public process:** [organvm-v-logos.github.io/public-process](https://organvm-v-logos.github.io/public-process/)
+
 ---
 
-<sub>ORGAN-II: Poiesis — 15 repositories, ~46K words of documentation · part of the [eight-organ creative-institutional system](https://github.com/meta-organvm) · maintained by [@4444j99](https://github.com/4444J99)</sub>
+<sub>ORGAN-II: Poiesis — 21 repositories, ~46K words of documentation · part of the [eight-organ creative-institutional system](https://github.com/meta-organvm) · maintained by [@4444j99](https://github.com/4444J99) · CONSOLIDATION-II Sprint 2026-02-12</sub>
