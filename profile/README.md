@@ -4,6 +4,8 @@
 
 # ORGAN-II: Poiesis — Art & Creative Systems
 
+_Generative art, interactive performance systems, and creative coding_
+
 > *ποίησις (poiesis) — making, bringing-forth; the act of calling something into existence that did not exist before*
 
 **Generative art, interactive systems, performance frameworks, experiential work**
